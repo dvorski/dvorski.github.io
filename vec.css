@@ -1,0 +1,151 @@
+.content1{
+    width: 1200px;
+    height: auto;
+    margin:auto;
+    color:black;
+    position:relative;
+}
+
+.content1 .par1{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    font-size: 25px;
+}
+
+.content1 h1{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+    color:white;
+    text-align: center;
+}
+
+.content2{
+    width: 1200px;
+    height: auto;
+    margin:auto;
+    color:black;
+    position:relative;
+}
+
+.content2 .par2{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    font-size: 25px;
+}
+
+.content2 h1{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+    color:white
+}
+
+.content3{
+    width: 1200px;
+    height: auto;
+    margin:auto;
+    color:black;
+    position:relative;
+}
+
+.content3 .par3{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    font-size: 25px;
+}
+
+.content3 h1{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+    color:white;
+    text-align: right;
+}
+
+.content4{
+    width: 1200px;
+    height: auto;
+    margin:auto;
+    color:black;
+    position:relative;
+}
+
+.content4 .par4{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    font-size: 25px;
+}
+
+.content4 h1{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+    color:white;
+    text-align: center;
+}
+
+.table{
+    width: 1200px;
+    height: auto;
+    margin:auto;
+    color:black;
+    position:relative;
+}
+
+.table h1{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+    color:white;
+    text-align:left;
+}
+
+.content5{
+    width: 1200px;
+    height: auto;
+    margin:auto;
+    color:black;
+    position:relative;
+}
+
+.content5 .par5{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    font-size: 25px;
+}
+
+.content5 h1{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+    color:white;
+    text-align:right;
+}
